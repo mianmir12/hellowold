@@ -1,4 +1,7 @@
 import './App.css';
+import MarketingBlog from './Components/MarketingBlog';
+
+
 /*
 import Card from './Components/Card';
 import Reviews from './Components/Reviews';
@@ -8,8 +11,19 @@ import Section3 from './Components/Section3';
 import Section5 from './Components/Section5';
 */
 
+/*
 import Blog from './Components/Blog';
 import BlogSec2 from './Components/BlogSec2';
+*/
+
+/*
+import SEO from './Components/SEO';
+*/
+
+{/*
+import Web from './Components/WebDevelopment'
+*/}
+
 
 function App() {
   return (
@@ -22,9 +36,19 @@ function App() {
         <Reviews></Reviews> 
         <Section5></Section5> */}
 
-        <Blog></Blog>
-        <BlogSec2></BlogSec2>
+          {/* BLog Page
+          <Blog></Blog>
+          <BlogSec2></BlogSec2> 
+        */}
+        
+        {/*
+        <SEO></SEO>
+      */}
 
+      {/*
+      <Web></Web>
+    */}
+    <MarketingBlog/>
       </div>
     
   );
