@@ -60,7 +60,7 @@ class MarketingBlog extends Component {
                     <table className="border-2 rounded-lg border-black">
                         <tbody>
                             <tr>
-                            <td>
+                            <td>  
                                 WordPress is a widely used platform for website development,
                                 providing a large community and extensive resources for support.
                             </td>

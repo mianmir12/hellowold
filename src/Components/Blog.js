@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import image from '../image/digital/bannerimg.webp';
 import MenuBar from "./MenuBar";
-
+// its blog 
 class Blog extends Component {
   render() {
     const mystyle = {
